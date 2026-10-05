@@ -1,15 +1,14 @@
-# Hi, I'm Rocío 👋
+# Hello! I'm Rocío 👋
 
 <p align="left">
   <img src="https://img.shields.io/badge/Robotics_Engineering_Student-UC3M-blue?style=flat-square&logo=arduino" alt="Degree">
   <img src="https://img.shields.io/badge/English-C1_(Full_Degree_in_English)-success?style=flat-square" alt="English">
   <img src="https://img.shields.io/badge/Status-Looking_for_Opportunities-orange?style=flat-square" alt="Status">
 </p>
----
 
 ### 🚀 About Me
 
-I am a senior **Robotics Engineering student at UC3M** with a strong foundation in software development, embedded systems, and automation. Passionate about bridging the gap between hardware and software, I love bringing functional prototypes to life—from mechanical design and circuitry to autonomous navigation and computer vision.
+I am a senior **Robotics Engineering student at UC3M** with a strong foundation in software development, embedded systems, and automation. Passionate about bridging the gap between hardware and software, I love bringing functional prototypes to life - from mechanical design and circuitry to autonomous navigation and computer vision.
 
 Currently, I am an active co-founder and software/hardware developer at **Golden Wires**, a competitive robotics team participating in **Eurobot** (with 3 qualifications for the international finals).
 

@@ -22,7 +22,7 @@ Currently, I am an active co-founder and software/hardware developer at **Golden
 
 ### 🏆 Featured Projects & Experience
 
-*   **Golden Wires Robotics Team** *(2022 – Present)*: Co-founder of the Eurobot team. Responsible for robot software logic (Python/C++), ArUco marker recognition for autonomous navigation, stepper motor motion control, and mechanical prototyping.
+*   **[Golden Wires Robotics Team](https://github.com/Rochii022/eurobot-golden-wires)** *(2022 – Present)*: Co-founder of the Eurobot team. Responsible for robot software logic (Python/C++), ArUco marker recognition for autonomous navigation, stepper motor motion control, and mechanical prototyping.
 *   **Sign Language Recognition System** *(Academic, 2025 – 2026)*: Real-time hand detection and segmentation pipeline using HSV color filtering combined with a CNN model for gesture classification.
 *   **Industrial Automation Project** *(Academic, 2025 – 2026)*: Multi-PLC sequential control implementation via PROFINET using Siemens TIA Portal (SFC/Ladder), integrated with Festo actuators and an active SIMATIC HMI panel for live monitoring and safety routines.
 
